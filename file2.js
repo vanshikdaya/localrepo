@@ -1,0 +1,1 @@
+console.log("i made this one by first doing:- make this folder and then i , first check ki ye .git se link h ya nahi by using ls -h agar ye nahi h toh hum init karke banasakte h, aur ab hum isme jo bhi change karnge toh ye vs code uska status batayega");
